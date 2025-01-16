@@ -49,7 +49,7 @@
     color:sienna;
     border-bottom: 2px solid black;
     position: relative;
-    top: 70px;
+    top: 100px;
     margin-bottom: 30px;
 }
 .types {
@@ -62,7 +62,7 @@
     visibility:visible;
     margin-bottom: 20px;
     position: relative;
-    top: 70px;
+    top: 90px;
 
     }
 .review {
@@ -95,7 +95,7 @@
 img {
     height: 300px;
     width: 300px;
-    left: 80px;
+    left: 40px;
     position: relative;
     display:inline-block;   
     top: 80px;
