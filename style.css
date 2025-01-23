@@ -95,16 +95,17 @@ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 img {
     height: 300px;
     width: 300px;
-    left: 40px;
     position: relative;
-    display:inline-block;   
+    display: flex;  
     top: 80px;
+    align-items: center;
 }
 .images p {
     text-align: center;
-    color:darkred;
+    color:rgb(220, 124, 29);
     font-weight: bold;
     position: relative;
     top: 80px;
     margin-bottom: 10px;
+    font-family: Papyrus;
 }
